@@ -1,8 +1,12 @@
-I've written a *lot* of numerical JAX and PyTorch, now used in diverse applications across ML (large protein models, large language models, ...) and science (simulation of black holes, soil moisture, ...). I would particularly highlight:
+I am currently a tech lead on ML for protein engineering (lead optimization) at [Cradle Bio](https://cradle.bio), and wrote much of the open-source scientific JAX ecosystem (see below). I hold an honorary lectureship at Imperial College London. I previously worked at Google X, and received my PhD from Oxford on neural differential equations.
 
-1. [**Equinox**](https://github.com/patrick-kidger/equinox): elegant neural networks. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/equinox?style=social)](https://github.com/patrick-kidger/equinox)
+My current interest is AI+biology. Right now that mostly means antibody engineering. I also moonlight on many other topics in scientific ML. (Numerics, neural ODEs, soil moisture, black hole simulations, ...) I am also known for having strong opinions on the importance of good software development! :)
+
+### Software
+
+1. [**Equinox**](https://github.com/patrick-kidger/equinox): elegant neural networks in JAX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/equinox?style=social)](https://github.com/patrick-kidger/equinox)
     
-2. [**Diffrax**](https://github.com/patrick-kidger/diffrax): numerical ODE/SDE solvers. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social)](https://github.com/patrick-kidger/diffrax)
+2. [**Diffrax**](https://github.com/patrick-kidger/diffrax): numerical ODE/SDE solvers in JAX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social)](https://github.com/patrick-kidger/diffrax)
 
 3. [**jaxtyping**](https://github.com/patrick-kidger/jaxtyping): shape/dtype annotations for arrays. (Also supports PyTorch etc, despite the name!) [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/jaxtyping?style=social)](https://github.com/patrick-kidger/jaxtyping)
 
@@ -53,19 +57,10 @@ I've written a *lot* of numerical JAX and PyTorch, now used in diverse applicati
 > 
 > </details>
 
+### Links
 
-### Me:
-
-I am currently a tech lead on ML for protein engineering (lead optimization) at [Cradle Bio](https://cradle.bio), and founded much of the open-source scientific JAX ecosystem. I also hold an honorary lectureship at Imperial College London. I previously worked at Google X, and received my PhD from Oxford on neural differential equations.
-
-My current interests include pretty much anything related to scientific machine learning and scientific computing! I've now worked across diverse parts of the field, from modern deep learning (protein language models) to classical methods (numerics), to everything in between (neural differential equations).
-
-I am also known for having strong opinions on the importance of good software development! :)
-
-**Other links:**
-
+- Personal website: [kidger.site](https://kidger.site)
+- Google scholar: [here](https://scholar.google.co.uk/citations?user=5cCLsNQAAAAJ)
 - Bluesky: [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/PatrickKidger.bsky.social)
 - Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/PatrickKidger?style=social)](https://twitter.com/PatrickKidger)
-- Google scholar: [here](https://scholar.google.co.uk/citations?user=5cCLsNQAAAAJ)
-- Personal website: [kidger.site](https://kidger.site)
 - Neural ODE/SDE textbook: [arXiv/2202.02435](https://arxiv.org/abs/2202.02435)
