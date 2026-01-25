@@ -42,18 +42,20 @@ My current interest is AI+biology. Right now that mostly means antibody engineer
 > 14. [**typst-marimo**](https://github.com/patrick-kidger/typst_marimo): Typst extension, adding support for generating figures and processing values using a companion Marimo notebook. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_marimo?style=social)](https://github.com/patrick-kidger/typst_marimo)
 > 
 > 15. [**typsy**](https://github.com/patrick-kidger/typsy): Classes/structs, pattern matching, safe counters... and more! Your one-stop library for programming tools not already in core Typst. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typsy?style=social)](https://github.com/patrick-kidger/typsy)
+>
+> 16. [**patstdlib**](https://github.com/patrick-kidger/patstdlib): Font configuration, subfigures, miscellaneous must-haves for my programming in Typst. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/patstdlib?style=social)](https://github.com/patrick-kidger/patstdlib)
 > 
 > ### MkDocs
 > 
-> 16. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
+> 17. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
 > 
-> 17. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_ipynb?style=social)](https://github.com/patrick-kidger/mkdocs_ipynb)
+> 18. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_ipynb?style=social)](https://github.com/patrick-kidger/mkdocs_ipynb)
 > 
-> 18. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_include_exclude_files?style=social)](https://github.com/patrick-kidger/mkdocs_include_exclude_files)
+> 19. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_include_exclude_files?style=social)](https://github.com/patrick-kidger/mkdocs_include_exclude_files)
 > 
 > ### Julia
 > 
-> 19. [FromFile.jl](https://github.com/Roger-luo/FromFile.jl): An improved import+include system for Julia. Makes your files self-contained and easier to understand. [![GitHub Repo stars](https://img.shields.io/github/stars/Roger-luo/FromFile.jl?style=social)](https://github.com/Roger-luo/FromFile.jl)
+> 20. [FromFile.jl](https://github.com/Roger-luo/FromFile.jl): An improved import+include system for Julia. Makes your files self-contained and easier to understand. [![GitHub Repo stars](https://img.shields.io/github/stars/Roger-luo/FromFile.jl?style=social)](https://github.com/Roger-luo/FromFile.jl)
 > 
 > </details>
 
