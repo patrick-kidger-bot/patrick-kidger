@@ -43,7 +43,7 @@ My current interest is AI+biology. Right now that mostly means antibody engineer
 > 
 > 15. [**typsy**](https://github.com/patrick-kidger/typsy): Classes/structs, pattern matching, safe counters... and more! Your one-stop library for programming tools not already in core Typst. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typsy?style=social)](https://github.com/patrick-kidger/typsy)
 >
-> 16. [**patstdlib**](https://github.com/patrick-kidger/patstdlib): Font configuration, subfigures, miscellaneous must-haves for my programming in Typst. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/patstdlib?style=social)](https://github.com/patrick-kidger/patstdlib)
+> 16. [**patstdlib**](https://github.com/patrick-kidger/patstdlib): Font configuration, subfigures, miscellaneous must-haves for typesetting in Typst. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/patstdlib?style=social)](https://github.com/patrick-kidger/patstdlib)
 > 
 > ### MkDocs
 > 
